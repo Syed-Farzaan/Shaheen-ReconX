@@ -56,7 +56,7 @@ Example:
 This creates and populates the workspace:
 
 ```text
-~/Targets/bugbounty/example/
+~/Targets/Bugbounty/NUST/
 ├── nust.lst      # Master subdomain list (all sources merged & deduped)
 ├── alive.lst        # Responsive hosts after httprobe
 ├── kaeferjaeger.lst  # For reference only
