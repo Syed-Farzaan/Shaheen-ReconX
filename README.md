@@ -5,6 +5,8 @@ Shaheen ReconX is a lightweight Bash automation script that simplifies the first
 
 Created by **Syed Bukhari (@0xTheFalcon)** — Version 1.2.1
 
+<img width="1600" height="757" alt="IMG-20261001-WA0026" src="https://github.com/user-attachments/assets/5268ea6e-086a-498a-9023-7ce2d609ba0d" />
+
 ---
 
 ## ✨ Features
