@@ -28,7 +28,7 @@ Created by **Syed Bukhari (@0xTheFalcon)** — Version 1.2.1
 | [Go](https://go.dev/) | Required to install the tools below |
 | [subfinder](https://github.com/projectdiscovery/subfinder) | Passive subdomain enumeration |
 | [httprobe](https://github.com/tomnomnom/httprobe) | Live host probing |
-| [cloudrecon](https://github.com/G0ldenGunSec/CloudRecon) | Installed at `/opt/cloudrecon/` (provides `cloud_data_search.sh`) |
+| [cloudrecon](https://github.com/Spix0r/cloudrecon.git) | Installed at `/opt/cloudrecon/` (provides `cloud_data_search.sh`) |
 | `figlet` | ASCII banner (Doom font) |
 | `lolcat` | Rainbow-colored output |
 
