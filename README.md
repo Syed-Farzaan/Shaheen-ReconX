@@ -41,14 +41,14 @@ go install -v github.com/tomnomnom/httprobe@latest
 
 Note: **The effectiveness and coverage by this tool depends upon the sources configured**. Configure your subfinder API keys (~/.config/subfinder/provider-config.yaml) for best results, and make sure /opt/cloudrecon/cloud_data_search.sh exists with execute permissions.
 
-🚀 Usage
+🚀 Usage:
 
-bash
+```bash
 chmod +x shaheen-reconx.sh
 ./shaheen-reconx.sh <domain> <target_foldername> <filename>
+```
+
 Example:
-
-
 ```bash
 ./shaheen-reconx.sh nust.edu.pk NUST nust
 ```
