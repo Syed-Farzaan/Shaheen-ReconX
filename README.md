@@ -45,13 +45,13 @@ go install -v github.com/tomnomnom/httprobe@latest
 🚀 Usage:
 
 ```bash
-chmod +x shaheen-reconx.sh
-./shaheen-reconx.sh <domain> <target_foldername> <filename>
+chmod +x shaheen.sh
+./shaheen.sh <domain> <target_foldername> <filename>
 ```
 
 Example:
 ```bash
-./shaheen-reconx.sh nust.edu.pk NUST nust
+./shaheen.sh nust.edu.pk NUST nust
 ```
 
 This creates and populates the workspace:
