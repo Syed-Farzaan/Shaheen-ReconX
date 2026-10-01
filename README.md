@@ -54,10 +54,10 @@ Example:
 ./shaheen.sh nust.edu.pk NUST nust
 ```
 
-This creates and populates the workspace:
+This creates and populates the workspace (inside each root domain folder):
 
 ```text
-~/Targets/Bugbounty/NUST/
+~/Targets/NUST/nust/
 ├── nust.lst      # Master subdomain list (all sources merged & deduped)
 ├── alive.lst        # Responsive hosts after httprobe
 ├── kaeferjaeger.lst  # For reference only
