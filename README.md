@@ -39,7 +39,8 @@ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install -v github.com/tomnomnom/httprobe@latest
 ```
 
-Note: **The effectiveness and coverage by this tool depends upon the sources configured**. Configure your subfinder API keys (~/.config/subfinder/provider-config.yaml) for best results, and make sure /opt/cloudrecon/cloud_data_search.sh exists with execute permissions.
+## Note: 
+**The effectiveness and coverage by this tool depends upon the sources configured**. Configure your subfinder API keys (~/.config/subfinder/provider-config.yaml) for best results, and make sure /opt/cloudrecon/cloud_data_search.sh exists with execute permissions.
 
 🚀 Usage:
 
